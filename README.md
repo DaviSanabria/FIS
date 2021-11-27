@@ -3,7 +3,7 @@
 <p>Jose David Sanabria Aponte - 20171020044</p>
 
 <p align="center">
-  ###### PROYECCION PROYECTO CALCULADORA
+  ###### PROYECTO CALCULADORA
   <img src="CP1.png" width="900" title="CDclase">
   <img src="CP2.png" width="900" title="CDCasodeUso">
 </p>
