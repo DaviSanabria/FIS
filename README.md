@@ -1,4 +1,5 @@
 # Fundamentos de ingenieria de software
+
 <p>Johan Sebastian Rincón Amaya - 20172020020 </p>
 <p>Jose David Sanabria Aponte - 20171020044 </p>
 
@@ -8,6 +9,7 @@
 <img src="CP1.png" width="900" title="CDclase">
   <img src="CP2.png" width="900" title="CDCasodeUso">
 </p>
+
 ## DIAGRAMAS UML DEL PROYECTO CALCULADORA
 
 <p align="center">
