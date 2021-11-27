@@ -17,7 +17,7 @@
 ## DIAGRAMAS UML DEL PROYECTO CALCULADORA
 
 <div align="center">
-  <img src="https://github.com/DaviSanabria/FIS/blob/main/CalculadoraDiagramas/CDCasodeUso.png" width="900" title="CDclase">
-  <img src="https://github.com/DaviSanabria/FIS/blob/main/CalculadoraDiagramas/CDClase.png" width="700" title="CDCasodeUso">
+  <img src="https://github.com/DaviSanabria/FIS/blob/main/CalculadoraDiagramas/CDClase.png" width="900" title="CDclase">
+  <img src="https://github.com/DaviSanabria/FIS/blob/main/CalculadoraDiagramas/CDCasodeUso.png" width="700" title="CDCasodeUso">
   <img src="https://github.com/DaviSanabria/FIS/blob/main/CalculadoraDiagramas/CDSecuencia.png" width="800" title="CDSecuencia">
 </div>
