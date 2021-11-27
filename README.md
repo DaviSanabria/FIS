@@ -6,16 +6,15 @@
 
 ## PROYECTO CALCULADORA 
 
-
 <div align="center">
-  <img src="CP1.png" width="900" title="CDclase">
-  <img src="CP2.png" width="900" title="CDCasodeUso">
+  <img src="CalculadoraDiagramas/CP1.png" width="900" title="CDclase">
+  <img src="CalculadoraDiagramas/CP2.png" width="900" title="CDCasodeUso">
 </div>
 
 ## DIAGRAMAS UML DEL PROYECTO CALCULADORA
 
 <div align="center">
-  <img src="CDClase.png" width="900" title="CDclase">
-  <img src="CDCasodeUso.png" width="700" title="CDCasodeUso">
-  <img src="CDSecuencia.png" width="800" title="CDSecuencia">
+  <img src="CalculadoraProyeccion/CDClase.png" width="900" title="CDclase">
+  <img src="CalculadoraProyeccion/CDCasodeUso.png" width="700" title="CDCasodeUso">
+  <img src="CalculadoraProyeccion/CDSecuencia.png" width="800" title="CDSecuencia">
 </div>
