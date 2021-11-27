@@ -23,5 +23,5 @@
 <div align="center">
   <img src="CalculadoraProyeccion/CDClase.png" width="900" title="CDclase">
   <img src="CalculadoraProyeccion/CDCasodeUso.png" width="700" title="CDCasodeUso">
-  <img src="CalculadoraProyeccion/CDSecuencia.png" width="800" title="CDSecuencia">
+  <img src="https://github.com/DaviSanabria/FIS/blob/main/CalculadoraDiagramas/CDSecuencia.png" width="800" title="CDSecuencia">
 </div>
