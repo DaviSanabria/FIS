@@ -1,6 +1,7 @@
-
+# Fundamentos de ingenieria de software
 <p>Johan Sebastian Rincón Amaya - 20172020020 </p>
-<p>Jose David Sanabria Aponte - 20171020044</p>
+<p>Jose David Sanabria Aponte - 20171020044 </p>
+
 ## PROYECTO CALCULADORA 
 
 <p align="center">
