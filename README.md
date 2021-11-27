@@ -7,10 +7,13 @@
 ## PROYECTO CALCULADORA 
 
 <div align="center">
+  
   <a href="https://github.com/DaviSanabria/FIS">
     <img src="CalculadoraDiagramas/CP1.png" alt="CP1" width="900">
   </a>
+  
   <img src="CalculadoraDiagramas/CP1.png" width="900" title="CDclase">
+  
   <img src="CalculadoraDiagramas/CP2.png" width="900" title="CDCasodeUso">
 </div>
 
