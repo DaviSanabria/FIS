@@ -11,6 +11,7 @@
   <a href="https://github.com/DaviSanabria/FIS">
     <img src="CalculadoraDiagramas/CP1.png" alt="CP1" width="900">
   </a>
+  ![Aquí la descripción de la imagen por si no carga](https://raw.githubusercontent.com/DaviSanabria/FIS/blob/main/CalculadoraProyeccion/CP1.png)
   
   <img src="CalculadoraDiagramas/CP1.png" width="900" title="CDclase">
   
